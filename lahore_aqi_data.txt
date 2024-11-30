@@ -1,0 +1,12 @@
+
+City: Lahore US Embassy, Pakistan
+Timestamp: 2024-11-27 22:00:00
+AQI: 333
+Pollutants:
+dew: 10
+h: 55
+p: 1016
+pm25: 333
+t: 19
+w: 0.5
+---------------------------------------------
